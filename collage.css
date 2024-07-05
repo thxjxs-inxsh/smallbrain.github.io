@@ -43,18 +43,11 @@ li a{
   text-decoration: none;
   color:#40140D;
   font-family: "Pacifico", cursive;
-  background-image: url(Background.png);
+  background-image: url(foot1.png);
   background-size: cover;
   background-repeat: no-repeat;
-  background-attachment:fixed;
 }
-li a:hover{
-  background-image: url(foot.png);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: unset;
-  color:antiquewhite;
-}
+
 @media only screen and (max-width:1000px){
   li a{
     font-size:0.8rem
